@@ -16,3 +16,25 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+Adicionando todos os arquivos alterados devido a uma finalidade em comum
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+Pequenas variações ou testes de recursos ou correção de erros. Depois se faz um merge das branches prontas
+Como os diagramas ajudam a visualizar a estrutura de branches?
+ Com ele é po
+ssível identificar o historico e os commits que são acessiveis e os que não são. Caso não seja acessivel, ele poderá se perder. Caso não faça parte de nenhum branch
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+ Eles se tornam somente um - master branch
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+ Ganhar agilidade, contra: possibilidade de introduzir erros ou ter que resolver conflitos
+
+
+
+
+
+
+
